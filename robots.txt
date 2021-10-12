@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /src/
+Disallow: /locales/
+Disallow: /instander/files/
+Disallow: /c/
+Allow: /
